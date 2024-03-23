@@ -3,6 +3,10 @@ body {
     height: 100vh;
 }
 
+main {
+    height: 90vh;
+}
+
 .nav-item > a {
     color: white !important;
 }
