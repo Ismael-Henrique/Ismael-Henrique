@@ -88,6 +88,10 @@ p, li {
     justify-content: center;
 }
 
+.link-decoration {
+    text-decoration: none;
+}
+
 @media (max-width: 992px)  {
     .navbar-text  {
         display: none;
@@ -106,5 +110,3 @@ p, li {
         grid-template-columns: 1fr;
     }
 }
-
-
