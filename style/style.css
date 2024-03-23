@@ -59,6 +59,22 @@ body {
     margin-right: 15px;
 }
 
+.lead-2 {
+    font-weight: 300;
+    font-size: 1.15rem;
+}
+
+.col-lg-6 ul {
+    list-style-type: none;
+}
+
+.tec-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px;
+}
+
+
 @media (max-width: 992px)  {
     .navbar-text  {
         display: none;
@@ -71,5 +87,11 @@ body {
     }
 }
 
+@media (max-width: 720px)  {
+    .tec-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
 
 
