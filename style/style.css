@@ -8,6 +8,7 @@ body {
 }
 
 
+
 .titulo-imagem {
     display: flex;
     justify-content: center;
@@ -71,8 +72,9 @@ body {
 
 .tec-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 0.2fr 0.2fr 0.2fr;
     grid-template-rows: 100px;
+    row-gap: 10px;
 }
 
 p, li {
@@ -92,6 +94,18 @@ p, li {
     text-decoration: none;
 }
 
+.white-circle {
+    border-radius: 50%; 
+    position: relative;
+    background-color: white;
+    height: 62.3px;
+    width: 62px;
+    z-index: -1;
+    bottom: 66px;
+    left: 4px;
+    margin: 0;
+}
+
 @media (max-width: 992px)  {
     .navbar-text  {
         display: none;
@@ -104,10 +118,10 @@ p, li {
     }
 }
 
-@media (max-width: 720px)  {
+@media (max-width: 993px)  {
     .tec-grid {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr;
+        grid-template-rows: 85px 85px;
     }
 }
