@@ -73,7 +73,7 @@ body {
 .tec-grid {
     display: grid;
     grid-template-columns: 0.2fr 0.2fr 0.2fr;
-    grid-template-rows: 100px;
+    grid-template-rows: 100px 100px 100px;
     row-gap: 10px;
 }
 
@@ -104,10 +104,6 @@ p, li {
     bottom: 66px;
     left: 4px;
     margin: 0;
-}
-
-.hr-c{
-    
 }
 
 @media (max-width: 992px)  {
