@@ -126,6 +126,6 @@ p, li {
     .tec-grid {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-template-rows: 85px 85px;
+        grid-template-rows: 85px 85px 85px 85px;
     }
 }
