@@ -1,6 +1,3 @@
-# Ismael Henrique 
-## 💡 Sobre mim
-Estudando técnico em desenvolvimeto de sistemas no Senai CTTI e no momento estou Aprendendo HTML, CSS, Banco de dados MySQL e Git. Sou uma pessoa curiosa que gosta de estudar a área de TI e matemática e estou atento as grandes mudanças tecnologicas do mundo moderno. 
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ismael-henrique-07bbb8279/)
